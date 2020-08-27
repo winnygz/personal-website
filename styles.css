@@ -1,0 +1,181 @@
+/*TODO: Add a background color or image to your website*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #EBF5FB;
+}
+
+.icon {
+  margin: 20px 10px 5px 60px;
+  text-align: justify;
+  text-align: left;
+}
+
+h1 {
+  color: ROYALBLUE;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 60px;
+}
+P1 {
+  color: #2E86C1;
+  font-size: 20px;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+pb {
+  color: #6A5ACD;
+  font-size: 20px;
+  font-family: "Lucida Console", Monaco, monospace;
+  margin-left: 10px;
+  text-align: justify;
+  text-weight: bold;
+}
+#insta {
+  font-family: Impact, Charcoal, sans-serif;
+}
+ul {
+  list-style-type: none;
+  text-align: right;
+  display: flex-start;
+  float: right;
+}
+li {
+  display: inline;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+li {
+  border-right: 2.6px solid yellow;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  color: #F585E7;
+  text-decoration: none;
+  text-align: right;
+  font-size: 1.7em;
+  text-align: right;
+}
+li a:hover {
+  background-color: #58D68D;
+}
+.pics {
+  border-radius: 10%;
+}
+
+#pic1 {
+  max-height: 500px;
+  margin-bottom: 1em;
+  border: 15px solid #018749;
+  margin-top: 80px;
+  margin-left: 280px;
+  align: center;
+}
+#pic2 {
+  max-height: 250px;
+  margin-top: -10000%;
+  margin-bottom: 200%;
+  border: 10px solid #4682B4;
+}
+#pic3 {
+  max-height: 250px;
+  margin-top: 100px;
+  margin-bottom: 2em;
+  border: 10px solid #87CEFA;
+}
+
+#pic4 {
+  max-height: 250px;
+    margin-top: -10000%;
+  margin-bottom: 220.8%;
+  margin-left: 875px;
+  border: 10px solid #FFC0CB;
+}
+#pic5 {
+  max-height: 250px;
+  margin-bottom: 200%;
+  margin-top: -19.5%;
+  margin-left: 600px;
+  margin-right:0.5em;
+  border: 10px solid #FFFACD;
+}
+#pic6 {
+  max-height: 250px;
+  margin-top: 10px;
+  margin-bottom: 17.7em;
+  border: 10px solid #7B68EE;
+}
+.text {
+  background-color: #FFF8DC;
+}
+h2 {
+  color: ROYALBLUE;
+  font-size: 40px;
+  margin: 20px 10px 5px 60px;
+}
+
+p2 {
+  color: #D193C9;
+  font-family: Monaco;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+/*TODO: Use the * selector to reset the margin and padding to 0px*/
+
+/*TODO: Add styling rules for the text and images on your website.*/
+
+h3 {
+  color: ROYALBLUE;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 60px;
+  margin: 20px 10px 5px 60px;
+  text-align: justify;
+  text-align: left;
+}
+
+h4 {
+  color: #2E86C1;
+  font-size: 20px;
+  margin: 20px 10px 5px 60px;
+  text-align: justify;
+  text-align: left;
+}
+#pic7 {
+  max-height: 250px;
+  margin-bottom: 2em;
+  border: 10px solid #7B68EE;
+}
+#pic8 {
+  max-height: 250px;
+  margin-bottom: 2em;
+  border: 10px solid #7B68EE;
+}
+#pic9 {
+  max-height: 250px;
+  margin-bottom: 2em;
+  border: 10px solid ##FFE4C4;
+}
+#pic10 {
+  max-height: 250px;
+  margin-bottom: 2em;
+  border: 10px solid ##D2691E;
+}
+#pic11 {
+  max-height: 250px;
+  margin-bottom: 2em;
+  border: 10px solid #;
+}
+#pic12 {
+  max-height: 250px;
+  margin-bottom: 2em;
+  border: 10px solid #;
+}
